@@ -47,8 +47,13 @@ print(x)
 
 ## Output:
 1
+
+
+
 ![MAT 5A](https://github.com/Sudharsanram/LU-Decomposition/assets/119393980/65f30ff7-bf20-4907-a702-684c906a0a13)
 2
+
+
 ![MAT 5B](https://github.com/Sudharsanram/LU-Decomposition/assets/119393980/4fc5fe06-7860-42c4-9c1c-f204ee20e403)
 
 ## Result:
